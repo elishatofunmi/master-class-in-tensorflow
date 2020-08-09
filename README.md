@@ -9,3 +9,15 @@ This masterclass is an online webinar session by @datasciencenigeria for her com
   * Low-level Tensorflow for classification (in folder titanic classification) - read about it on medium https://bit.ly/tensorflow_classification
   * For guide on how to install tensorflow check out the notebook (installation.ipynb).
   * For parameter hypertuning of your neural network, check out (TitanicClasifier.py).
+  
+  
+**Connect with me via**
+
+Twitter: https://www.twitter.com/elishatofunmi 
+
+email: elishatofunmi@gmail.com 
+
+Linkedln: https://www.linkedin.com/in/elisha-odemakinde-366705150/
+
+
+
